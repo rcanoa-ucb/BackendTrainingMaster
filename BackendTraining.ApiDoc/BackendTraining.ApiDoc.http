@@ -1,0 +1,6 @@
+@BackendTraining.ApiDoc_HostAddress = http://localhost:5122
+
+GET {{BackendTraining.ApiDoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

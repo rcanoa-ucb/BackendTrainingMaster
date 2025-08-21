@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "trFihyJBmQI=",
+  "success": true,
+  "projectFilePath": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://pkgs.dev.azure.com/rcanoa-ucb/Backend-Ucb-Nacional/_packaging/NuGet-Ucb-Security/nuget/v3/index.json.",
+      "projectPath": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

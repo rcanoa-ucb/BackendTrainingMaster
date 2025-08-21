@@ -1,0 +1,6 @@
+@BackendTraining.MinimalApi_HostAddress = http://localhost:5042
+
+GET {{BackendTraining.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
