@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Training\\UCB\\BackendTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\controllers\\avanzadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\controllers\\avanzadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\controllers\\listsincronocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\controllers\\listsincronocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA68EFD-B649-411F-A1D6-3E9E7AEA0C3C}|BackendTraining.MinimalApi\\BackendTraining.MinimalApi.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA68EFD-B649-411F-A1D6-3E9E7AEA0C3C}|BackendTraining.MinimalApi\\BackendTraining.MinimalApi.csproj|solutionrelative:backendtraining.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\controllers\\listascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\controllers\\listascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\controllers\\basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\controllers\\basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\controllers\\intermediocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\controllers\\intermediocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D33B48-FB56-40D0-B3CC-5B1B6E780E97}|BackendTraining.API\\BackendTraining.API.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D33B48-FB56-40D0-B3CC-5B1B6E780E97}|BackendTraining.API\\BackendTraining.API.csproj|solutionrelative:backendtraining.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|d:\\training\\ucb\\backendtraining\\backendtraining.apidoc\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EB0156-A273-494B-885E-4D5A80EA3CBD}|BackendTraining.ApiDoc\\BackendTraining.ApiDoc.csproj|solutionrelative:backendtraining.apidoc\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,78 +47,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AvanzadoController.cs",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\AvanzadoController.cs",
-              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\AvanzadoController.cs",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\AvanzadoController.cs",
-              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\AvanzadoController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGoAAAAiAAAAAAAAAA==",
+              "Title": "ListSincronoController.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\ListSincronoController.cs",
+              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\ListSincronoController.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\ListSincronoController.cs",
+              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\ListSincronoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:09:25.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IntermedioController.cs",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\IntermedioController.cs",
-              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\IntermedioController.cs",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\IntermedioController.cs",
-              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\IntermedioController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:03:21.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BackendTraining.ApiDoc\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T14:17:08.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasicoController.cs",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
-              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
-              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:15:22.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.MinimalApi\\Program.cs",
-              "RelativeDocumentMoniker": "BackendTraining.MinimalApi\\Program.cs",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.MinimalApi\\Program.cs",
-              "RelativeToolTip": "BackendTraining.MinimalApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:56:02.865Z",
+              "WhenOpened": "2025-08-22T17:33:27.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BackendTraining.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BackendTraining.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\JsonHelper.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\JsonHelper.cs",
+              "RelativeToolTip": "BackendTraining.ApiDoc\\JsonHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:49:52.322Z"
+              "WhenOpened": "2025-08-22T15:50:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicoController.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
+              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
+              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\BasicoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:45:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Models\\Persona.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Models\\Persona.cs",
+              "RelativeToolTip": "BackendTraining.ApiDoc\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:44:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListasController.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\ListasController.cs",
+              "RelativeDocumentMoniker": "BackendTraining.ApiDoc\\Controllers\\ListasController.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTraining\\BackendTraining.ApiDoc\\Controllers\\ListasController.cs",
+              "RelativeToolTip": "BackendTraining.ApiDoc\\Controllers\\ListasController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAHsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:42:42.251Z",
+              "EditorCaption": ""
             }
           ]
         }
