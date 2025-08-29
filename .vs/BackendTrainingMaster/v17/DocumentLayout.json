@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training\\UCB\\BackendTrainingMaster\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Training\\Ucb\\BackendTrainingMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\backendtrainingmaster.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\backendtrainingmaster.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:24:45.364Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\appsettings.json",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T18:34:34.344Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Program.cs",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:33:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:27:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:22:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackendTrainingMaster.Crud",
+              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T18:18:50.525Z",
+              "EditorCaption": ""
             }
           ]
         }
