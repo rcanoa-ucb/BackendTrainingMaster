@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendTrainingMaster.MinimalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2adba7bb4b1ed985e7e3bd3fa485166c247080c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7b2604844fd0885220d131a90df5ea7a0cdecc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendTrainingMaster.MinimalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendTrainingMaster.MinimalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,11 +9,16 @@ namespace BackendTrainingMaster.Crud
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            //Configurar la BD
-            var connectionString = 
-                builder.Configuration.GetConnectionString("Connection");
-            builder.Services.AddDbContext<AppDbContext>
-                (options => options.UseSqlServer(connectionString));
+            #region Configurar la BD SqlServer
+            //var connectionString = builder.Configuration.GetConnectionString("ConnectionSqlServer");
+            //builder.Services.AddDbContext<AppDbContext> (options => options.UseSqlServer(connectionString));
+            #endregion
+
+            #region Configurar la BD MySql
+            var connectionString = builder.Configuration.GetConnectionString("ConnectionMySql");
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+            #endregion
 
             // Add services to the container.
             builder.Services.AddControllers()

@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Silvia\\.nuget\\packages\\": {},
+    "C:\\Users\\Richard\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.API\\BackendTrainingMaster.API.csproj",
+      "projectUniqueName": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.API\\BackendTrainingMaster.API.csproj",
       "projectName": "BackendTrainingMaster.API",
-      "projectPath": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.API\\BackendTrainingMaster.API.csproj",
-      "packagesPath": "C:\\Users\\Silvia\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.API\\obj\\",
+      "projectPath": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.API\\BackendTrainingMaster.API.csproj",
+      "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
+      "outputPath": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Silvia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -34,7 +34,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/rcanoa-ucb/Backend-Ucb-Nacional/_packaging/NuGet-Ucb-Security/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -52,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -76,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

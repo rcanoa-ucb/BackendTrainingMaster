@@ -1,53 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Training\\Ucb\\BackendTrainingMaster\\",
+  "WorkspaceRootPath": "D:\\Training\\UCB\\BackendTrainingMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\migrations\\20250829183800_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\migrations\\20250829183800_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\backendtrainingmaster.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\backendtrainingmaster.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\backendtrainingmaster.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|c:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|d:\\training\\ucb\\backendtrainingmaster\\backendtrainingmaster.crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17DEFDC-7994-422C-A1FA-8DD2C1C7D569}|BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj|solutionrelative:backendtrainingmaster.crud\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +50,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250904142811_Initial.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs",
+              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\Migrations\\20250904142811_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:28:11.641Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,63 +92,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250903180747_Initial2.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs",
-              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs",
-              "RelativeToolTip": "BackendTrainingMaster.Crud\\Migrations\\20250903180747_Initial2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T18:07:48.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\User.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Models\\User.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\User.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\User.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Models\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T16:28:22.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BackendTrainingMaster.Crud\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:25:12.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250829183800_Initial.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250829183800_Initial.cs",
-              "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Migrations\\20250829183800_Initial.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Migrations\\20250829183800_Initial.cs",
-              "RelativeToolTip": "BackendTrainingMaster.Crud\\Migrations\\20250829183800_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:25:11.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\WeatherForecast.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\WeatherForecast.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\WeatherForecast.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,78 +118,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswDYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T19:24:45.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\appsettings.json",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json",
-              "RelativeToolTip": "BackendTrainingMaster.Crud\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\appsettings.json*",
+              "RelativeToolTip": "BackendTrainingMaster.Crud\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-29T18:34:34.344Z"
+              "WhenOpened": "2025-08-29T18:34:34.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Program.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Program.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T18:33:40.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T18:27:30.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\Models\\Person.cs",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\Models\\Person.cs",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:22:18.184Z"
+              "WhenOpened": "2025-08-29T18:22:18.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "BackendTrainingMaster.Crud.csproj",
-              "DocumentMoniker": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "DocumentMoniker": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
               "RelativeDocumentMoniker": "BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
-              "ToolTip": "C:\\Training\\Ucb\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
+              "ToolTip": "D:\\Training\\UCB\\BackendTrainingMaster\\BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
               "RelativeToolTip": "BackendTrainingMaster.Crud\\BackendTrainingMaster.Crud.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T18:18:50.525Z"
+              "WhenOpened": "2025-08-29T18:18:50.525Z",
+              "EditorCaption": ""
             }
           ]
         }

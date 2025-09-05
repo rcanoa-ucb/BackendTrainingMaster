@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "mx1qsNcuEZStmAVM2B2a3u5Iqn1pLCp4ek4ENxJFDAw=",
-  "Source": "BackendTrainingMaster.ApiDoc",
-  "BasePath": "_content/BackendTrainingMaster.ApiDoc",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"mx1qsNcuEZStmAVM2B2a3u5Iqn1pLCp4ek4ENxJFDAw=","Source":"BackendTrainingMaster.ApiDoc","BasePath":"_content/BackendTrainingMaster.ApiDoc","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
